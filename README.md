@@ -34,6 +34,7 @@
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,8 +62,10 @@
 | ------- | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
