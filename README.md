@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3643-flip-square-submatrix-vertically](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
