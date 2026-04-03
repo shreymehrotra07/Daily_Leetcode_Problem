@@ -13,6 +13,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -135,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
