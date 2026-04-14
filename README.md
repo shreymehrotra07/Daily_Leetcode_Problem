@@ -36,6 +36,7 @@
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -61,6 +62,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
@@ -97,6 +99,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
