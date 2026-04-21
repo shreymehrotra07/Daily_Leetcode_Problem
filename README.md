@@ -70,6 +70,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -120,6 +121,7 @@
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Matrix
