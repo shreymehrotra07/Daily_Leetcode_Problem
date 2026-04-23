@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -74,6 +75,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -140,6 +142,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
