@@ -224,6 +224,7 @@
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -269,11 +270,13 @@
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +289,7 @@
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
+| [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
