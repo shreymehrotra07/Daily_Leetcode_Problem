@@ -68,6 +68,7 @@
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -135,6 +136,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -165,6 +167,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## String Matching
@@ -206,6 +209,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -219,4 +223,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
