@@ -28,6 +28,7 @@
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -129,6 +130,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
+| [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -181,6 +183,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -232,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
