@@ -78,6 +78,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -129,6 +130,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -161,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -257,6 +260,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,12 +276,14 @@
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +296,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 <!---LeetCode Topics End-->
