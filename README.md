@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -146,6 +149,7 @@
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -211,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -271,6 +276,7 @@
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +304,7 @@
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
