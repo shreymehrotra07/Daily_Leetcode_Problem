@@ -46,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
@@ -91,6 +92,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
@@ -121,6 +123,7 @@
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Enumeration
@@ -170,6 +173,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
