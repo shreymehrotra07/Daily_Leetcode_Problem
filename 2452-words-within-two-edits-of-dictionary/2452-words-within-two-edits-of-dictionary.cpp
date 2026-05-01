@@ -1,23 +1,33 @@
 class Solution {
-public:
-    vector<string> twoEditWords(vector<string>& queries, vector<string>& dictionary) {
-        int n=queries[0].size();
-        vector<string> ans;
-        for(auto &it:queries){
-            for(auto &i:dictionary){
-                int diff=0;
-                for(int idx=0; idx<n; idx++){
-                    if(it[idx]!=i[idx]){
-                        diff++;
-                    }
-                    if(diff>2) break;
+    boolean hasMatch(String query, String[] dictionary) {
+        boolean found = false;
+        for (String dict : dictionary) {
+            int diffMax = 2;
+            for (int i=0;i<dict.length();i++) {
+                if (dict.charAt(i) != query.charAt(i)) {
+                    diffMax--;
                 }
-                if(diff<=2){
-                    ans.push_back(it);
+                if (diffMax < 0) {
                     break;
                 }
             }
+            if (diffMax >= 0) {
+                return true;
+            }
         }
-        return ans;
+
+        return found;
     }
-};
+
+    public List<String> twoEditWords(String[] queries, String[] dictionary) {
+
+        List<String> result = new ArrayList<>();
+        for (String query : queries) {
+            if (hasMatch(query, dictionary)) {
+                result.add(query);
+            }
+        }
+
+        return result;
+    }
+}
