@@ -76,6 +76,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
@@ -164,6 +165,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -200,6 +202,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -254,6 +257,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Counting
@@ -272,6 +276,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
