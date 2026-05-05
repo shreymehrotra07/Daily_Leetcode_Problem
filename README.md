@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -342,6 +343,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
