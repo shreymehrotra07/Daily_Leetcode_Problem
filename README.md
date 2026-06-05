@@ -139,6 +139,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
