@@ -132,6 +132,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -197,6 +198,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +359,7 @@
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
 | [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +389,7 @@
 | ------- | ------- |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
