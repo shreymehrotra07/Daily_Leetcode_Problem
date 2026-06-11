@@ -81,6 +81,7 @@
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
@@ -298,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
