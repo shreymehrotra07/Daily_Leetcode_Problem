@@ -5,12 +5,10 @@ class Solution {
             String str = words[i];
             int sum = 0;
             for(int j=0 ; j<str.length() ; j++){
-                char chr = str.charAt(j);
-                int index = chr-'a';
-                int weight = weights[index];
-                sum += weight;
+                int index = str.charAt(j)-'a';
+                sum+=weights[index];
             }
-            char c = (char) ('z'- sum%26);
+            char c = (char)('z'-sum%26);
             result+=c;
         }
         return result;
