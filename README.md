@@ -71,6 +71,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -271,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -393,6 +395,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
