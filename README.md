@@ -191,6 +191,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -238,6 +239,7 @@
 | [2906-construct-product-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
