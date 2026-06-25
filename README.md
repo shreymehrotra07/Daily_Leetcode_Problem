@@ -98,6 +98,7 @@
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -284,6 +286,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -299,6 +302,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
