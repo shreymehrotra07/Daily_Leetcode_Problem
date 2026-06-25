@@ -96,6 +96,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
@@ -275,6 +277,7 @@
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
