@@ -29,6 +29,7 @@
 | [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
@@ -290,6 +291,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0071-simplify-path/) | Medium |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
