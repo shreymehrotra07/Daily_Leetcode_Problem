@@ -41,6 +41,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -79,6 +80,7 @@
 | [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -262,6 +264,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -303,6 +306,7 @@
 | [0071-simplify-path](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
