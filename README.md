@@ -297,6 +297,7 @@
 | [0020-valid-parentheses](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
@@ -320,6 +321,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1825-finding-mk-average](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1825-finding-mk-average/) | Hard |
@@ -368,6 +370,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
