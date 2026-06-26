@@ -11,6 +11,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -36,6 +37,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0796-rotate-string/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
@@ -350,6 +352,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -371,6 +374,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
