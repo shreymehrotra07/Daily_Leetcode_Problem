@@ -332,6 +332,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0206-reverse-linked-list/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -447,6 +448,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0206-reverse-linked-list/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
