@@ -25,6 +25,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3866-first-unique-even-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3866-first-unique-even-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3866-first-unique-even-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3866-first-unique-even-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
