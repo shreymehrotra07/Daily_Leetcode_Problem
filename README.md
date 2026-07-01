@@ -68,6 +68,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
@@ -125,6 +126,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -176,6 +178,7 @@
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
