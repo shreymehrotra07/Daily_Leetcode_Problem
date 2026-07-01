@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2615-sum-of-distances](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2615-sum-of-distances/) | Medium |
@@ -46,6 +47,7 @@
 | [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -304,6 +306,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
