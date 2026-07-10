@@ -10,6 +10,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
+| [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -113,6 +115,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
