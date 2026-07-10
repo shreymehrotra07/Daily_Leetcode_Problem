@@ -114,6 +114,7 @@
 | [0014-longest-common-prefix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -230,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0010-regular-expression-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -391,6 +393,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
