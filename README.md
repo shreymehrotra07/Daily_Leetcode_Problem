@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -71,6 +72,7 @@
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -120,6 +122,7 @@
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
@@ -192,6 +195,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0012-integer-to-roman/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
@@ -355,6 +359,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -459,6 +464,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
+| [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Heap (Priority Queue)
