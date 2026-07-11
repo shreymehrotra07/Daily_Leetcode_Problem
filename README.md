@@ -119,6 +119,7 @@
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
@@ -235,6 +236,7 @@
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
