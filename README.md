@@ -68,6 +68,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
@@ -112,6 +114,7 @@
 | [0001-two-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
