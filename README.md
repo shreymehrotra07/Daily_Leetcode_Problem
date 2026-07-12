@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -143,6 +145,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
