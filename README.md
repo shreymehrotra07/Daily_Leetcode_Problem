@@ -122,6 +122,7 @@
 | [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0056-merge-intervals/) | Medium |
@@ -210,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
@@ -292,6 +294,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
