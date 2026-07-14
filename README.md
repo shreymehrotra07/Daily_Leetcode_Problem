@@ -80,6 +80,7 @@
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -108,6 +109,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
@@ -146,6 +148,7 @@
 | [0283-move-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
+| [0455-assign-cookies](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -283,6 +286,7 @@
 | [0011-container-with-most-water](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
