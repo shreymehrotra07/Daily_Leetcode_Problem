@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -142,6 +144,7 @@
 | [0238-product-of-array-except-self](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -419,6 +422,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -441,6 +445,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -499,6 +504,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1499-max-value-of-equation/) | Hard |
@@ -580,4 +586,12 @@
 | [1148-article-views-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
