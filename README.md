@@ -57,6 +57,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2446-determine-if-two-events-have-conflict](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -187,6 +188,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
+| [2446-determine-if-two-events-have-conflict](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
