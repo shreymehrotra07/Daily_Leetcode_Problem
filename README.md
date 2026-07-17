@@ -141,6 +141,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
@@ -298,6 +299,7 @@
 | [0011-container-with-most-water](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0455-assign-cookies/) | Easy |
