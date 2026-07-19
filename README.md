@@ -76,6 +76,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0217-contains-duplicate/) | Easy |
@@ -108,6 +109,7 @@
 | [0015-3sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0189-rotate-array/) | Medium |
@@ -137,6 +139,7 @@
 | [0056-merge-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
