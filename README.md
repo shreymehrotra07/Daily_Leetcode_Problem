@@ -167,6 +167,7 @@
 | [0704-binary-search](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0704-binary-search/) | Easy |
 | [0860-lemonade-change](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -247,6 +248,7 @@
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
@@ -294,6 +296,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -620,6 +623,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
