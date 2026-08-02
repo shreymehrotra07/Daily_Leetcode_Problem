@@ -7,12 +7,12 @@ class Solution {
         ans.add(firstrow);
         for(int i=2 ; i<=numRows ; i++){
             List<Integer> row = new ArrayList<>();
-            int a = 1;
-            row.add(a);
+            long a = 1;
+            row.add((int)a);
             for(int j=1 ; j<i ; j++){
                 a = a*(i-j);
                 a = a/(j);
-                row.add(a);
+                row.add((int)a);
             }
             ans.add(row);
         }
