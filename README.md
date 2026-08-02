@@ -146,6 +146,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
+| [0118-pascals-triangle](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -290,6 +291,7 @@
 | [0045-jump-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
