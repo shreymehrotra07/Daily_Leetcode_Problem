@@ -177,6 +177,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -252,6 +253,7 @@
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -302,6 +304,7 @@
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
@@ -628,6 +631,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,4 +648,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
