@@ -495,6 +495,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Counting
@@ -522,6 +523,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,4 +666,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
