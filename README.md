@@ -67,6 +67,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -126,6 +127,7 @@
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -317,6 +319,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2407-longest-increasing-subsequence-ii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -345,6 +348,7 @@
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
