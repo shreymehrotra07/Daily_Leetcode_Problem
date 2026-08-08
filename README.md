@@ -494,6 +494,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -680,4 +681,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
