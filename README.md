@@ -184,6 +184,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -264,6 +265,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -316,6 +318,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
@@ -387,6 +390,7 @@
 | [0238-product-of-array-except-self](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -658,6 +662,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -678,10 +683,12 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
