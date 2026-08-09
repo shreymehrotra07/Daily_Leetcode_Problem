@@ -48,6 +48,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0242-valid-anagram/) | Easy |
@@ -308,6 +309,7 @@
 | [0119-pascals-triangle-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0396-rotate-function](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -503,6 +505,7 @@
 | [0051-n-queens](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
