@@ -29,13 +29,11 @@ class Solution {
             if (board[m][j] == c) {
                 return false;
             }
-        }
-        for (int m = 0; m < board[0].length; m++) {
+
             if (board[i][m] == c) {
                 return false;
             }
-        }
-        for (int m = 0; m < board.length; m++) {
+
             if (board[3 * (i / 3) + m / 3][3 * (j / 3) + m % 3] == c) {
                 return false;
             }
