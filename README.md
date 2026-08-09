@@ -60,6 +60,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -406,6 +407,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -449,6 +451,7 @@
 | [0844-backspace-string-compare](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0844-backspace-string-compare/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0936-stamping-the-sequence/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
