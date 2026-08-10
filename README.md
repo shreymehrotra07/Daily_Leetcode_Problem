@@ -268,6 +268,7 @@
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -322,6 +323,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1425-constrained-subsequence-sum](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1425-constrained-subsequence-sum/) | Hard |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1687-delivering-boxes-from-storage-to-ports/) | Hard |
 | [1696-jump-game-vi](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1696-jump-game-vi/) | Medium |
@@ -664,6 +666,7 @@
 | [0877-stone-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -685,11 +688,13 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -704,4 +709,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0037-sudoku-solver/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
