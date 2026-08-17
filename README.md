@@ -218,6 +218,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -282,6 +283,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -366,6 +368,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2071-maximum-number-of-tasks-you-can-assign/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -540,6 +543,7 @@
 | [0169-majority-element](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -681,6 +685,7 @@
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,12 +708,14 @@
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -727,6 +734,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
