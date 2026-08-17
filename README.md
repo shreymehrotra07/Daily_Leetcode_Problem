@@ -252,6 +252,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -597,6 +598,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreymehrotra07/Daily_Leetcode_Problem/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
